@@ -4,7 +4,6 @@
         </c:forEach>
     </ul>
 
-
     <h1>${message}</h1>
 
     Teste Formulário
